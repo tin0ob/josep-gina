@@ -1,0 +1,110 @@
+body {	
+	color: white;
+	font-family: Andale Mono, AndaleMono, monospace;
+	font-size: 10px;
+	line-height: 0.5em; 
+	background-attachment: fixed;
+	background-size: contain;   
+	background-position: center;  
+	background-color: black;  
+	background-repeat:no-repeat;  
+}
+
+
+#wrapper{
+   position: fixed;
+   left: 15%;
+   top:0%;
+   width: 70%;
+   height: 100%;
+   
+}
+
+.imageClass{
+  display: none;
+  position: fixed;
+  width: 70%;
+  height: 100%;
+}
+
+	
+.a {	
+	background-color:black;
+	list-style-type: none;
+	font-family: Andale Mono, AndaleMono, monospace;
+	text-decoration: none;
+	color: white;
+	margin: 0;
+	padding: fixed;
+	font-size: 12px;
+	line-height: 30px;
+	width:200px;
+	height:30;
+	opacity:0.6; 
+ }	
+
+#Hoja 	{
+	background: black;
+	height: 530px;
+	width: 300px;
+	font-size: 13.5px;
+	line-height: 1.2em; 
+	opacity:0.5;
+	position:fixed;
+	left:15.3%;
+	top:5%;
+	padding-top: 30px;
+	text-indent: 5px;
+	text-align: center;
+	display: none;
+	}
+
+
+#Trabajos {
+	background:black;
+	text-align: center;
+	font-size: 15px;
+	display : none;
+	position:absolute;
+	left:15%;
+	top:0;
+	  }
+
+#Contacto {
+	background:black; 
+	color:white;
+	width:500px;
+	height:100px;
+	position: fixed;
+	left: 20%;
+	top: 400px;
+	right:0;
+	bottom:0;
+	text-align: justify;
+	font-size: 20px;
+	line-height: 1em;
+	display : none;
+	opacity:0.65; 
+	  }
+	  
+	 
+#Asistente {
+	text-align: center;
+	font-size: 15px;
+	display : none;
+	position:absolute;
+	left:20%;
+	bottom:5%;
+	
+	  }	  
+
+
+#abajo {
+	font-family: Andale Mono, AndaleMono, monospace;
+	position:fixed;
+	bottom: 0;	
+	width: 964px;
+	padding: 10px;
+	color: #FFFFFF;
+}
+
